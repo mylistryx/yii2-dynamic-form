@@ -36,8 +36,8 @@
     "php": ">=8.2",
     "mylistryx/yii2-fontawesome-free": "2.0.0",
     "yiisoft/yii2": "~2.0.50",
-    "symfony/css-selector": "7.*",
-    "symfony/dom-crawler": "7.*"
+	"symfony/css-selector": "~7.0.0",
+    "symfony/dom-crawler": "~7.0.0"
   },
   "config": {
     "allow-plugins": {
